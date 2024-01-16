@@ -30,3 +30,4 @@ SELECT     -- Эта выборка поможет определить иден
  ORDER BY top_count_order DESC) AS T3 ON T2.customer_id = T3.customer_id_for_craftsman
   
 Проект сдан
+For commit
